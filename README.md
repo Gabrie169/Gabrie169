@@ -1,3 +1,4 @@
+<div>
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details>
@@ -12,8 +13,10 @@
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+GabrielCL;aka+Gabriel+Caramantin;Welcome+to+my+profile!;Description+of+myself%3A;Web+Developer;AI+enthusiast;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG" /></a>
   </div>
+</div>
 
-<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
+<div>
+  <h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
 
 <p align="left">
   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -156,4 +159,4 @@
 </p>        
 <!--- stats (end) -->
 
-
+</div>
