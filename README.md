@@ -19,7 +19,7 @@
       <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hola!%2C+Soy++Gabriel;aka+Gabriel+Caramantin;Bienvenido+a+mi+perfil+de+Github;Soy+Ingeniero+de+Sistemas+Computacionales;Desarrollador+Frontend;HTML+CS2;Me+gusta+desarrollar+aplicaciones+web+y+android;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hola!%2C+Soy++Gabriel;aka+Gabriel+Caramantin;Bienvenido+a+mi+perfil+de+Github;Ingeniero+de+Sistemas+Computacionales;Desarrollador+Frontend;HTML+CS2;Me+gusta+desarrollar+aplicaciones+web+y+android;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
   </div>
 </div>
 </div>
@@ -43,7 +43,7 @@
 
 💻 Un año de experiencia en el proceso de desarrollo de software
 
-📝 roles en el ámbito: desarrollador... programador ... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... programador
 
 📫 Contacto: **gabriel19012002@gmail.com**
 <!--Intro end-->
